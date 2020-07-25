@@ -28,7 +28,7 @@ class App(Frame):
             self.e.delete(0,END)
 
 if __name__ == "__main__":
-    root=Tk()
+    r
     root.title('Auto Logger')
     root.geometry('500x500')
     app=App(master=root)
